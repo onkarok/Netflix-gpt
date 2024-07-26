@@ -1,6 +1,8 @@
 1) created the npm created app
 2) installed and used the tailwind css.
-
+3) built the header
+4) built login form
+4) signup form
 
 # Features:
 -Login/signup
